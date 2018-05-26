@@ -1,5 +1,5 @@
 #include"node.h"
-//´´½¨Á´±í{2,3} 
+
 node *buildtwothree()
 {
 	node *second=NULL;
